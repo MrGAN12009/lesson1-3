@@ -79,7 +79,7 @@ while True:
 
     print(quad(n))
 
-
+#from new commit
 
 
 
